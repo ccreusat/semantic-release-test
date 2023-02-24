@@ -11,6 +11,5 @@
       "name": "next",
       "prerelease": true
     }
-  ],
-  "repositoryUrl": "https://github.com/ccreusat/semantic-release-test.git"
+  ]
 }
