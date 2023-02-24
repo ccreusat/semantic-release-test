@@ -23,9 +23,5 @@
   "packageManager": "pnpm@7.21.0",
   "engines": {
     "node": ">=18.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ccreusat/semantic-release-test.git"
   }
 }
