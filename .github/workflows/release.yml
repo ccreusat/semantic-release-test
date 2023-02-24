@@ -3,9 +3,8 @@ name: Semantic release
   push:
     branches:
       - main
+      - dev
       - next
-      - beta
-      - "*.x"
 permissions:
   contents: read #  for checkout
 jobs:

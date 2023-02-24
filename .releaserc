@@ -8,6 +8,10 @@
   "branches": [
     "main",
     {
+      "name": "dev",
+      "prerelease": true
+    },
+    {
       "name": "next",
       "prerelease": true
     }
